@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oii, meu nome é Karine e estou no processo de me tormar uma desenvolvedora Front-End 👋
 
 <div align="center">
   <a href="https://github.com/KarineCosta15">
