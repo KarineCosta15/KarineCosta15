@@ -1,4 +1,4 @@
-### Oii, meu nome é Karine e estou no processo para me tormar uma desenvolvedora Front-End 👋
+### Oii, meu nome é Karine e atuo hoje na área de Análise de Dados 👋
 
 <div align="center">
   <a href="https://github.com/KarineCosta15">
