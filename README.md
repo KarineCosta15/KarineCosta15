@@ -13,6 +13,8 @@ Estou no processo de atualizaçaõ deste perfil, e irão ver nele códigos sobre
 <div style="display: inline_block"><br>
   <img align="center" alt="Karine-Visual" height="40" width="40"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="Karine-gimp" height="40" width="40"  
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Karine-Html" height="40" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Karine-CSS" height="40" width="40"  
@@ -26,8 +28,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Karine-gimp" height="40" width="40"  
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg">
-  <img align="center" alt="Karine-gimp" height="40" width="40"  
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
   
 </div>
   
